@@ -1,0 +1,11 @@
+# datasets
+*.csv
+*.xlsx
+*.json
+
+# specific dataset
+titanic.csv
+
+# datasets folder
+data/
+datasets/
