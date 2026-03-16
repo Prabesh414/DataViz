@@ -2,9 +2,13 @@
 *.csv
 *.xlsx
 *.json
+*.docx
+*.tmp
 
 # specific dataset
 titanic.csv
+adult.csv
+churn.csv
 
 # datasets folder
 data/
